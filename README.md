@@ -41,5 +41,6 @@ A API oferece as seguintes funcionalidades através dos endpoints no recurso `/t
 Todos os endpoints foram testados e documentados no Postman. A coleção contendo as requisições prontas pra uso está disponível neste repositório.
 
 ➡️ **[API-Tarefas.postman_collection.json](https://github.com/user-attachments/files/22959274/Gerenciador.de.Tarefas.postman_collection.zip)**
+➡️ **[gerenciador_tarefas_tarefas.zip](https://github.com/user-attachments/files/22977581/gerenciador_tarefas_tarefas.zip)**
 
 ---
